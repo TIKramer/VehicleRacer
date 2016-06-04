@@ -1,3 +1,4 @@
+//Class Provided by Curtin University 
 public final class WheelClass
 {
     //Class constants.

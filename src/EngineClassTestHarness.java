@@ -1,4 +1,8 @@
-
+/****************************************************************
+ * Author: Thomas Kramer                                        *
+ * Purpose: Class to create test for program                    * 
+ * Date: 04/06/2016 1:20pm                                      *
+ ***************************************************************/
 public class EngineClassTestHarness
 {
 
